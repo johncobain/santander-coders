@@ -11,7 +11,7 @@ public class Main {
 
         Passaro passaro1 = new Passaro("Frajola", "Azul", 10, 3.2, "Feliz");
         
-        cachorro1.soar();
+        // cachorro1.soar();
         gato1.soar();
         passaro1.soar();
 
